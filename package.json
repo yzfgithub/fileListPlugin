@@ -1,0 +1,19 @@
+{
+  "name": "y-file-list-webpack-plugin",
+  "version": "1.0.1",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yzfgithub/yFileListWebpackPlugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yzfgithub/yFileListWebpackPlugin/issues"
+  },
+  "homepage": "https://github.com/yzfgithub/yFileListWebpackPlugin#readme"
+}
